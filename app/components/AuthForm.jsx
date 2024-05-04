@@ -11,7 +11,7 @@ export default function AuthForm(){
         view="magic_link"
         showLinks={false}
         providers={[]}
-        redirectTo='/auth/callback'
+        redirectTo='https://watch-list-plum.vercel.app/auth/callback'
         appearance={{
             theme: 'dark',
             button: {
